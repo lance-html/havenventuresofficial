@@ -203,12 +203,12 @@ const teamDepartments = [
     name: "IT & Technology",
     members: [
       {
-      name: "Bryan Paul Belgar",
-      role: "IT Specialist",
+      name: "Lance Cambronero",
+      role: "IT Manager",
     },
       {
-      name: "Lance Cambronero",
-      role: "Developer",
+      name: "Bryan Paul Belgar",
+      role: "IT Specialist",
     },
       {
       name: "Elijah Sanagustin",
